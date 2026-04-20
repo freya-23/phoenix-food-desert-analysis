@@ -2,7 +2,7 @@
 
 Spatial analysis of grocery store access across 1,009 census tracts in Maricopa County, Arizona, revealing a strong correlation between food deserts and low-income neighborhoods.
 
-![Phoenix Food Access Map](maps/phoenix_food_access_map.jpg)
+![Phoenix Food Access Map](maps/phoenix_food_access_map.png)
 
 Choropleth: tracts shaded by median family income (red = lowest, green = highest). Blue outlines mark USDA-classified food desert tracts.
 
