@@ -23,7 +23,7 @@ Choropleth: tracts shaded by median family income (red = lowest, green = highest
 
 ## Income Distribution
 
-![Income Distribution](maps/income_distribution.png)
+![Income Distribution](./maps/income_distribution.png)
 
 Food desert tracts cluster at the low end of income distribution; served tracts span up to $250K+.
 
