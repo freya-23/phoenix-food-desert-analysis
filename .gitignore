@@ -1,0 +1,15 @@
+data/*.xlsx
+data/*.gpkg
+data/*.shp
+data/*.shx
+data/*.dbf
+data/*.prj
+data/*.cpg
+data/*.zip
+data/*.xml
+data/tl_2023_04_tract/
+data/maricopa_grocery_stores.geojson
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
